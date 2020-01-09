@@ -1,0 +1,14 @@
+Breakfast & Brunch;American (Traditional);Restaurants
+Sandwiches;Restaurants
+Local Services;IT Services & Computer Repair
+Restaurants;Italian
+Food;Coffee & Tea
+Fast Food;Restaurants
+Mortgage Brokers;Home Services;Real Estate
+Brasseries;Restaurants
+Brasseries;Restaurants
+Brasseries;Restaurants
+Brasseries;Restaurants
+Brasseries;Restaurants;Pizza;Restaurants
+Brasseries;Restaurants;Bars;Sports Bars;
+Bars;Sports Bars;Nightlife;American (New);Chicken Wings;Restaurants
